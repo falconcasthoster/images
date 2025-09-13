@@ -63,6 +63,14 @@
     {
       "name": "Volleyball",
       "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Volleyball.png"
+    },
+    {
+      "name": "wwe",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/wwe.png"
+    },
+    {
+      "name": "Wrestling",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Wrestling.png"
     }
   ]
 }

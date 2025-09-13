@@ -1,0 +1,68 @@
+{
+  "categories": [
+    {
+      "name": "American football",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/American-Football.png"
+    },
+    {
+      "name": "Badminton",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Badminton.png"
+    },
+    {
+      "name": "Baseball",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Baseball.png"
+    },
+    {
+      "name": "Basketball",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Basketball.png"
+    },
+    {
+      "name": "Cricket",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Cricket.png"
+    },
+    {
+      "name": "E-sports",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Esports.png"
+    },
+    {
+      "name": "Football",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Football.png"
+    },
+    {
+      "name": "Handball",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Handball.png"
+    },
+    {
+      "name": "Hokey",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Hokey.png"
+    },
+    {
+      "name": "Ice hockey",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Ice-Hockey.png"
+    },
+    {
+      "name": "Mixed Martial Arts",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Mixed-Martial-Arts.png"
+    },
+    {
+      "name": "MotorSports",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Motorsport.png"
+    },
+    {
+      "name": "Rugby",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Rugby.png"
+    },
+    {
+      "name": "Table tennis",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Table-Tennis.png"
+    },
+    {
+      "name": "Tennis",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Tennis.png"
+    },
+    {
+      "name": "Volleyball",
+      "logo_url": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/Catlogos/Volleyball.png"
+    }
+  ]
+}
